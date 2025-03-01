@@ -1,7 +1,7 @@
 # 🚀 ¡Retos de Algoritmia!
 ## 🔥 ¡Prepárate para el primer reto! ¡Que comience el aprendizaje! 🚀
 
-## 🏆 **Reto #1: Two Sum  @everyone**
+## 🏆 **Reto #1: Two Sum**
 
 ### 📌 **Dificultad:** 🟢 Fácil
 

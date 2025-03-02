@@ -90,11 +90,13 @@ Salida: [1,2]  // Porque numbers[1] + numbers[2] = -1 + 0 = -1
 
 ## Diagramas de flujo con:
 `graphviz`
+
 Ejecuta cada celda y se generarán imágenes explicativas para cada reto. 🚀📊
 
 ## Gradio en Colab:
 Para ejecutar una interfaz gráfica compatible con Colab se instaló Gradio:
 `!pip install gradio`
+
 
 - Permite crear una interfaz interactiva en Colab con muy poco código.
 - Fácil de usar en Notebooks.
